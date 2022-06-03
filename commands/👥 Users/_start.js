@@ -8,9 +8,7 @@
   <<ANSWER
 Hello user!
 
-You can /login as admin
-
-or start /message with admin.
+you can start /message with admin.
 
   ANSWER
   keyboard: 
