@@ -9,9 +9,9 @@
   aliases: 
 CMD*/
 
-msg = "Access denied. Password is: `123` /login"
+msg = "Access denied, enter the password. /login"
 
-if(message=="123"){
+if(message=="ali elsayed"){
   Bot.setProperty("admin_chat", chat.chatid, "string")
   msg = "You admin now. Please wait messages from users";
 }
